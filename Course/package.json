@@ -1,0 +1,27 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is learning react by Sarath K",
+  "scripts": {
+    "start" : "parcel index.html",
+    "build" : "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarathKandra/namaste-react.git"
+  },
+  "author": "Sarath K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarathKandra/namaste-react/issues"
+  },
+  "homepage": "https://github.com/SarathKandra/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
